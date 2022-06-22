@@ -1,5 +1,5 @@
 
-[portugues](link repositorio)
+[Readme em português](https://github.com/mardenmnt/100-days-of-code/blob/main/README-ptbr.md)
 
 # 100 Days of Code: The Complete Python Pro Bootcamp for 2022 :snake:
 
@@ -21,7 +21,10 @@ Master Python by building **100 projects** in 100 days. Learn data science, auto
 
 <br>
 
-### Day 1 - Beginner - Working with Variables in Python to Manage Data
+#### Day 1 - Beginner - Working with Variables in Python to Manage Data
 
-### Day 2 - Beginner - Understanding Data Types and How to Manipulate Strings
+#### Day 2 - Beginner - Understanding Data Types and How to Manipulate Strings
 
+#### Day 3 - Beginner - Control Flow and Logical Operators
+
+#### Day 4 - Beginner - Randomisation and Python Lists

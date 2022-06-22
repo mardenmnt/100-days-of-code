@@ -22,3 +22,7 @@ Domine o Python construindo **100 projetos** em 100 dias. Aprenda ciência de da
 #### Dia 1 - Iniciante - Trabalhando com Variáveis ​​em Python para Gerenciar Dados
 
 #### Dia 2 - Iniciante - Entendendo os Tipos de Dados e Como Manipular Strings
+
+#### Dia 3 - Iniciante - Controle de Fluxo e Operadores Lógicos
+
+#### Dia 4 - Iniciante - Randomização e listas Python
