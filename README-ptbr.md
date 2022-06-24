@@ -19,7 +19,7 @@ Domine o Python construindo **100 projetos** em 100 dias. Aprenda ciência de da
 
 <br>
 
-#### Dia 1 - Iniciante - Trabalhando com Variáveis ​​em Python para Gerenciar Dados
+#### [Dia 1 - Iniciante - Trabalhando com Variáveis ​​em Python para Gerenciar Dados](https://github.com/mardenmnt/100-days-of-code/tree/main/day_1)
 
 #### Dia 2 - Iniciante - Entendendo os Tipos de Dados e Como Manipular Strings
 
