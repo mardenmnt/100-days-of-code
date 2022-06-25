@@ -26,3 +26,31 @@ Domine o Python construindo **100 projetos** em 100 dias. Aprenda ciência de da
 #### Dia 3 - Iniciante - Controle de Fluxo e Operadores Lógicos
 
 #### Dia 4 - Iniciante - Randomização e listas Python
+
+#### Dia 5 - Iniciante - Loops Python
+
+#### Dia 6 - Iniciante - Funções Python e Karel
+
+#### Dia 7 - Iniciante - Jogo da forca
+
+#### Dia 8 - Iniciante - Parâmetros de função e Caesar Cipher
+
+#### Dia 9 - Iniciante - Dicionários, Aninhamento e o Secret Auction
+
+#### Dia 10 - Iniciante - Funções com Saídas
+
+#### Dia 11 - Iniciante - The Blackjack Capstone Project
+
+#### Dia 12 - Iniciante - Jogo de adivinhação de escopo e número
+
+#### Dia 13 - Iniciante - Depuração: como encontrar e corrigir erros em seu código
+
+#### Dia 14 - Iniciante - Higher Lower Game Project
+
+#### Dia 15 - Intermediário - Configuração do Ambiente de Desenvolvimento Local e Máquina de Café
+
+#### Dia 16 - Intermediário - Programação Orientada a Objetos (POO)
+
+#### Dia 17 - Intermediário - O Projeto Quiz e os Benefícios da POO
+
+#### Dia 18 - Intermediário - Turtle e a interface gráfica do usuário (GUI)
