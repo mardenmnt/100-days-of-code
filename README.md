@@ -25,7 +25,7 @@ Master Python by building **100 projects** in 100 days. Learn data science, auto
 
 #### [Day 2 - Beginner - Understanding Data Types and How to Manipulate Strings](https://github.com/mardenmnt/100-days-of-code/tree/main/day_2)
 
-#### Day 3 - Beginner - Control Flow and Logical Operators
+#### [Day 3 - Beginner - Control Flow and Logical Operators](https://github.com/mardenmnt/100-days-of-code/tree/main/day_3)
 
 #### Day 4 - Beginner - Randomisation and Python Lists
 

@@ -23,7 +23,7 @@ Domine o Python construindo **100 projetos** em 100 dias. Aprenda ciência de da
 
 #### [Dia 2 - Iniciante - Entendendo os Tipos de Dados e Como Manipular Strings](https://github.com/mardenmnt/100-days-of-code/tree/main/day_2)
 
-#### Dia 3 - Iniciante - Controle de Fluxo e Operadores Lógicos
+#### [Dia 3 - Iniciante - Controle de Fluxo e Operadores Lógicos](https://github.com/mardenmnt/100-days-of-code/tree/main/day_3)
 
 #### Dia 4 - Iniciante - Randomização e listas Python
 
