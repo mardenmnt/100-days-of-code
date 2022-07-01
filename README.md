@@ -29,7 +29,7 @@ Master Python by building **100 projects** in 100 days. Learn data science, auto
 
 #### [Day 4 - Beginner - Randomisation and Python Lists](https://github.com/mardenmnt/100-days-of-code/tree/main/day_4)
 
-#### Day 5 - Beginner - Python Loops
+#### [Day 5 - Beginner - Python Loops](https://github.com/mardenmnt/100-days-of-code/tree/main/day_5)
 
 #### Day 6 - Beginner - Python Functions & Karel
 
