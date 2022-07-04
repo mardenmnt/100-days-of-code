@@ -29,7 +29,7 @@ Domine o Python construindo **100 projetos** em 100 dias. Aprenda ciência de da
 
 #### [Dia 5 - Iniciante - Loops Python](https://github.com/mardenmnt/100-days-of-code/tree/main/day_5)
 
-#### Dia 6 - Iniciante - Funções Python e Karel
+#### [Dia 6 - Iniciante - Funções Python e Karel](https://github.com/mardenmnt/100-days-of-code/tree/main/day_6)
 
 #### Dia 7 - Iniciante - Jogo da forca
 
