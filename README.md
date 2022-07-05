@@ -33,9 +33,9 @@ Master Python by building **100 projects** in 100 days. Learn data science, auto
 
 #### [Day 6 - Beginner - Python Functions & Karel](https://github.com/mardenmnt/100-days-of-code/tree/main/day_6)
 
-#### Day 7 - Beginner - Hangman
+#### [Day 7 - Beginner - Hangman](https://github.com/mardenmnt/100-days-of-code/tree/main/day_7)
 
-#### Day 8 - Beginner - Function Parameters & Caesar Cipher
+#### [Day 8 - Beginner - Function Parameters & Caesar Cipher](https://github.com/mardenmnt/100-days-of-code/tree/main/day_8)
 
 #### Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction
 

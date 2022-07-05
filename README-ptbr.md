@@ -31,9 +31,9 @@ Domine o Python construindo **100 projetos** em 100 dias. Aprenda ciência de da
 
 #### [Dia 6 - Iniciante - Funções Python e Karel](https://github.com/mardenmnt/100-days-of-code/tree/main/day_6)
 
-#### Dia 7 - Iniciante - Jogo da forca
+#### [Dia 7 - Iniciante - Jogo da forca](https://github.com/mardenmnt/100-days-of-code/tree/main/day_7)
 
-#### Dia 8 - Iniciante - Parâmetros de função e Caesar Cipher
+#### [Dia 8 - Iniciante - Parâmetros de função e Caesar Cipher](https://github.com/mardenmnt/100-days-of-code/tree/main/day_8)
 
 #### Dia 9 - Iniciante - Dicionários, Aninhamento e o Secret Auction
 
