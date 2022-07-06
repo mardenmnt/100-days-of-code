@@ -37,7 +37,7 @@ Master Python by building **100 projects** in 100 days. Learn data science, auto
 
 #### [Day 8 - Beginner - Function Parameters & Caesar Cipher](https://github.com/mardenmnt/100-days-of-code/tree/main/day_8)
 
-#### Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction
+#### [Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction](https://github.com/mardenmnt/100-days-of-code/tree/main/day_9)
 
 #### Day 10 - Beginner - Functions with Outputs
 
