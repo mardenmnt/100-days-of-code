@@ -21,7 +21,7 @@ def find_highest_bidder(bidding_record):
     print(f"\nThe winner is {winner} with the bid of ${highest_bid}.")
 
 while not bidding_finished:
-  name = input("What's yout name: ")
+  name = input("What's your name: ")
   price = float(input("What's the bid? $"))
   
   bids[name] = price
