@@ -21,23 +21,23 @@ Master Python by building **100 projects** in 100 days. Learn data science, auto
 
 <br>
 
-#### [Day 1 - Beginner - Working with Variables in Python to Manage Data](https://github.com/mardenmnt/100-days-of-code/tree/main/day_1)
+#### [Day 1 - Beginner - Working with Variables in Python to Manage Data](https://github.com/mardenmnt/100-days-of-code/tree/main/day_01)
 
-#### [Day 2 - Beginner - Understanding Data Types and How to Manipulate Strings](https://github.com/mardenmnt/100-days-of-code/tree/main/day_2)
+#### [Day 2 - Beginner - Understanding Data Types and How to Manipulate Strings](https://github.com/mardenmnt/100-days-of-code/tree/main/day_02)
 
-#### [Day 3 - Beginner - Control Flow and Logical Operators](https://github.com/mardenmnt/100-days-of-code/tree/main/day_3)
+#### [Day 3 - Beginner - Control Flow and Logical Operators](https://github.com/mardenmnt/100-days-of-code/tree/main/day_03)
 
-#### [Day 4 - Beginner - Randomisation and Python Lists](https://github.com/mardenmnt/100-days-of-code/tree/main/day_4)
+#### [Day 4 - Beginner - Randomisation and Python Lists](https://github.com/mardenmnt/100-days-of-code/tree/main/day_04)
 
-#### [Day 5 - Beginner - Python Loops](https://github.com/mardenmnt/100-days-of-code/tree/main/day_5)
+#### [Day 5 - Beginner - Python Loops](https://github.com/mardenmnt/100-days-of-code/tree/main/day_05)
 
-#### [Day 6 - Beginner - Python Functions & Karel](https://github.com/mardenmnt/100-days-of-code/tree/main/day_6)
+#### [Day 6 - Beginner - Python Functions & Karel](https://github.com/mardenmnt/100-days-of-code/tree/main/day_06)
 
-#### [Day 7 - Beginner - Hangman](https://github.com/mardenmnt/100-days-of-code/tree/main/day_7)
+#### [Day 7 - Beginner - Hangman](https://github.com/mardenmnt/100-days-of-code/tree/main/day_07)
 
-#### [Day 8 - Beginner - Function Parameters & Caesar Cipher](https://github.com/mardenmnt/100-days-of-code/tree/main/day_8)
+#### [Day 8 - Beginner - Function Parameters & Caesar Cipher](https://github.com/mardenmnt/100-days-of-code/tree/main/day_08)
 
-#### [Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction](https://github.com/mardenmnt/100-days-of-code/tree/main/day_9)
+#### [Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction](https://github.com/mardenmnt/100-days-of-code/tree/main/day_09)
 
 #### [Day 10 - Beginner - Functions with Outputs](https://github.com/mardenmnt/100-days-of-code/tree/main/day_10)
 

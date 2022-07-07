@@ -19,23 +19,23 @@ Domine o Python construindo **100 projetos** em 100 dias. Aprenda ciência de da
 
 <br>
 
-#### [Dia 1 - Iniciante - Trabalhando com Variáveis em :Python para Gerenciar Dados](https://github.com/mardenmnt/100-days-of-code/tree/main/day_1)
+#### [Dia 1 - Iniciante - Trabalhando com Variáveis em :Python para Gerenciar Dados](https://github.com/mardenmnt/100-days-of-code/tree/main/day_01)
 
-#### [Dia 2 - Iniciante - Entendendo os Tipos de Dados e Como Manipular Strings](https://github.com/mardenmnt/100-days-of-code/tree/main/day_2)
+#### [Dia 2 - Iniciante - Entendendo os Tipos de Dados e Como Manipular Strings](https://github.com/mardenmnt/100-days-of-code/tree/main/day_02)
 
-#### [Dia 3 - Iniciante - Controle de Fluxo e Operadores Lógicos](https://github.com/mardenmnt/100-days-of-code/tree/main/day_3)
+#### [Dia 3 - Iniciante - Controle de Fluxo e Operadores Lógicos](https://github.com/mardenmnt/100-days-of-code/tree/main/day_03)
 
-#### [Dia 4 - Iniciante - Randomização e listas Python](https://github.com/mardenmnt/100-days-of-code/tree/main/day_4)
+#### [Dia 4 - Iniciante - Randomização e listas Python](https://github.com/mardenmnt/100-days-of-code/tree/main/day_04)
 
-#### [Dia 5 - Iniciante - Loops Python](https://github.com/mardenmnt/100-days-of-code/tree/main/day_5)
+#### [Dia 5 - Iniciante - Loops Python](https://github.com/mardenmnt/100-days-of-code/tree/main/day_05)
 
-#### [Dia 6 - Iniciante - Funções Python e Karel](https://github.com/mardenmnt/100-days-of-code/tree/main/day_6)
+#### [Dia 6 - Iniciante - Funções Python e Karel](https://github.com/mardenmnt/100-days-of-code/tree/main/day_06)
 
-#### [Dia 7 - Iniciante - Jogo da forca](https://github.com/mardenmnt/100-days-of-code/tree/main/day_7)
+#### [Dia 7 - Iniciante - Jogo da forca](https://github.com/mardenmnt/100-days-of-code/tree/main/day_07)
 
-#### [Dia 8 - Iniciante - Parâmetros de função e Caesar Cipher](https://github.com/mardenmnt/100-days-of-code/tree/main/day_8)
+#### [Dia 8 - Iniciante - Parâmetros de função e Caesar Cipher](https://github.com/mardenmnt/100-days-of-code/tree/main/day_08)
 
-#### [Dia 9 - Iniciante - Dicionários, Aninhamento e o Secret Auction](https://github.com/mardenmnt/100-days-of-code/tree/main/day_9)
+#### [Dia 9 - Iniciante - Dicionários, Aninhamento e o Secret Auction](https://github.com/mardenmnt/100-days-of-code/tree/main/day_09)
 
 #### [Dia 10 - Iniciante - Funções com Saídas](https://github.com/mardenmnt/100-days-of-code/tree/main/day_10)
 
