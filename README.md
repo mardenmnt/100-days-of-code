@@ -39,7 +39,7 @@ Master Python by building **100 projects** in 100 days. Learn data science, auto
 
 #### [Day 9 - Beginner - Dictionaries, Nesting and the Secret Auction](https://github.com/mardenmnt/100-days-of-code/tree/main/day_9)
 
-#### Day 10 - Beginner - Functions with Outputs
+#### [Day 10 - Beginner - Functions with Outputs](https://github.com/mardenmnt/100-days-of-code/tree/main/day_10)
 
 #### Day 11 - Beginner - The Blackjack Capstone Project
 
