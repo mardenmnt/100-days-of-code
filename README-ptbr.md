@@ -39,7 +39,7 @@ Domine o Python construindo **100 projetos** em 100 dias. Aprenda ciência de da
 
 #### [Dia 10 - Iniciante - Funções com Saídas](https://github.com/mardenmnt/100-days-of-code/tree/main/day_10)
 
-#### Dia 11 - Iniciante - The Blackjack Capstone Project
+#### [Dia 11 - Iniciante - The Blackjack Capstone Project](https://github.com/mardenmnt/100-days-of-code/tree/main/day_11)
 
 #### Dia 12 - Iniciante - Jogo de adivinhação de escopo e número
 
