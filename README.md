@@ -43,7 +43,7 @@ Master Python by building **100 projects** in 100 days. Learn data science, auto
 
 #### [Day 11 - Beginner - The Blackjack Capstone Project](https://github.com/mardenmnt/100-days-of-code/tree/main/day_11)
 
-#### Day 12  - Beginner - Scope & Number Guessing Game
+#### [Day 12  - Beginner - Scope & Number Guessing Game](https://github.com/mardenmnt/100-days-of-code/tree/main/day_12)
 
 #### Day 13 - Beginner - Debugging: How to Find and Fix Errors in your Code
 
