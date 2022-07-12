@@ -45,7 +45,7 @@ Domine o Python construindo **100 projetos** em 100 dias. Aprenda ciência de da
 
 #### [Dia 13 - Iniciante - Depuração: como encontrar e corrigir erros em seu código](https://github.com/mardenmnt/100-days-of-code/tree/main/day_13)
 
-#### Dia 14 - Iniciante - Higher Lower Game Project
+#### [Dia 14 - Iniciante - Higher Lower Game Project](https://github.com/mardenmnt/100-days-of-code/tree/main/day_14)
 
 #### Dia 15 - Intermediário - Configuração do Ambiente de Desenvolvimento Local e Máquina de Café
 
