@@ -47,7 +47,7 @@ Domine o Python construindo **100 projetos** em 100 dias. Aprenda ciência de da
 
 #### [Dia 14 - Iniciante - Higher Lower Game Project](https://github.com/mardenmnt/100-days-of-code/tree/main/day_14)
 
-#### Dia 15 - Intermediário - Configuração do Ambiente de Desenvolvimento Local e Máquina de Café
+#### [Dia 15 - Intermediário - Configuração do Ambiente de Desenvolvimento Local e Máquina de Café](https://github.com/mardenmnt/100-days-of-code/tree/main/day_15)
 
 #### Dia 16 - Intermediário - Programação Orientada a Objetos (POO)
 
