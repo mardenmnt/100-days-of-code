@@ -56,3 +56,9 @@ Master Python by building **100 projects** in 100 days. Learn data science, auto
 #### Day 17 - Intermediate - The Quiz Project & the Benefits of OOP
 
 #### Day 18 - Intermediate - Turtle & the Graphical User Interface (GUI)
+
+#### Day 19 - Intermediate - Instances, State and Higher Order Functions
+
+#### Day 20 - Intermediate - Build the Snake Game Part 1: Animation & Coordinates
+
+#### Day 21 - Intermediate - Build the Snake Game Part 2: Inheritance & List Slicing

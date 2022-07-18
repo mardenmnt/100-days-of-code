@@ -54,3 +54,9 @@ Domine o Python construindo **100 projetos** em 100 dias. Aprenda ciência de da
 #### Dia 17 - Intermediário - O Projeto Quiz e os Benefícios da POO
 
 #### Dia 18 - Intermediário - Turtle e a interface gráfica do usuário (GUI)
+
+#### Dia 19 - Intermediário - Instâncias, Estado e Funções de Ordem Superior
+
+#### Dia 20 - Intermediário - Construa o Jogo da Cobra Parte 1: Animação e Coordenadas
+
+#### Dia 21 - Intermediário - Construa o jogo da cobra Parte 2: Herança e fatiamento de lista
