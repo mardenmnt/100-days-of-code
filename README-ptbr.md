@@ -49,7 +49,7 @@ Domine o Python construindo **100 projetos** em 100 dias. Aprenda ciência de da
 
 #### [Dia 15 - Intermediário - Configuração do Ambiente de Desenvolvimento Local e Máquina de Café](https://github.com/mardenmnt/100-days-of-code/tree/main/day_15)
 
-#### Dia 16 - Intermediário - Programação Orientada a Objetos (POO)
+#### [Dia 16 - Intermediário - Programação Orientada a Objetos (POO)](https://github.com/mardenmnt/100-days-of-code/tree/main/day_16)
 
 #### Dia 17 - Intermediário - O Projeto Quiz e os Benefícios da POO
 
