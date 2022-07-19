@@ -53,7 +53,7 @@ Master Python by building **100 projects** in 100 days. Learn data science, auto
 
 #### [Day 16  - Intermediate - Object Oriented Programming (OOP)](https://github.com/mardenmnt/100-days-of-code/tree/main/day_16)
 
-#### Day 17 - Intermediate - The Quiz Project & the Benefits of OOP
+#### [Day 17 - Intermediate - The Quiz Project & the Benefits of OOP](https://github.com/mardenmnt/100-days-of-code/tree/main/day_17)
 
 #### Day 18 - Intermediate - Turtle & the Graphical User Interface (GUI)
 
