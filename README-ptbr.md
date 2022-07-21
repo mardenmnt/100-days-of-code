@@ -60,3 +60,11 @@ Domine o Python construindo **100 projetos** em 100 dias. Aprenda ciência de da
 #### Dia 20 - Intermediário - Construa o Jogo da Cobra Parte 1: Animação e Coordenadas
 
 #### Dia 21 - Intermediário - Construa o jogo da cobra Parte 2: Herança e fatiamento de lista
+
+#### Dia 22 - Intermediário - Construa Pong: O Famoso Jogo de Arcade
+
+#### Dia 23 - Intermediário - O Projeto Capstone da Travessia da Tartaruga
+
+#### Dia 24 - Intermediário - Arquivos, Diretórios e Caminhos
+
+#### Dia 25 - Intermediário - Trabalhando com dados CSV e a biblioteca Pandas

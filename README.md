@@ -62,3 +62,11 @@ Master Python by building **100 projects** in 100 days. Learn data science, auto
 #### Day 20 - Intermediate - Build the Snake Game Part 1: Animation & Coordinates
 
 #### Day 21 - Intermediate - Build the Snake Game Part 2: Inheritance & List Slicing
+
+#### Day 22 - Intermediate - Build Pong: The Famous Arcade Game
+
+#### Day 23 - Intermediate - The Turtle Crossing Capstone Project
+
+#### Day 24 - Intermediate - Files, Directories and Paths
+
+#### Day 25 - Intermediate - Working with CSV Data and the Pandas Library
