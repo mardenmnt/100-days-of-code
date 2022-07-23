@@ -53,7 +53,7 @@ Domine o Python construindo **100 projetos** em 100 dias. Aprenda ciência de da
 
 #### [Dia 17 - Intermediário - O Projeto Quiz e os Benefícios da POO](https://github.com/mardenmnt/100-days-of-code/tree/main/day_17)
 
-#### Dia 18 - Intermediário - Turtle e a interface gráfica do usuário (GUI)
+#### [Dia 18 - Intermediário - Turtle e a interface gráfica do usuário (GUI)](https://github.com/mardenmnt/100-days-of-code/tree/main/day_18)
 
 #### Dia 19 - Intermediário - Instâncias, Estado e Funções de Ordem Superior
 

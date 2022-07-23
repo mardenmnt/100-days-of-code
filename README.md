@@ -55,7 +55,7 @@ Master Python by building **100 projects** in 100 days. Learn data science, auto
 
 #### [Day 17 - Intermediate - The Quiz Project & the Benefits of OOP](https://github.com/mardenmnt/100-days-of-code/tree/main/day_17)
 
-#### Day 18 - Intermediate - Turtle & the Graphical User Interface (GUI)
+#### [Day 18 - Intermediate - Turtle & the Graphical User Interface (GUI)](https://github.com/mardenmnt/100-days-of-code/tree/main/day_18)
 
 #### Day 19 - Intermediate - Instances, State and Higher Order Functions
 
