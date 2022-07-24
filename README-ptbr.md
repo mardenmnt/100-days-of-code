@@ -55,7 +55,7 @@ Domine o Python construindo **100 projetos** em 100 dias. Aprenda ciência de da
 
 #### [Dia 18 - Intermediário - Turtle e a interface gráfica do usuário (GUI)](https://github.com/mardenmnt/100-days-of-code/tree/main/day_18)
 
-#### Dia 19 - Intermediário - Instâncias, Estado e Funções de Ordem Superior
+#### [Dia 19 - Intermediário - Instâncias, Estado e Funções de Ordem Superior](https://github.com/mardenmnt/100-days-of-code/tree/main/day_19)
 
 #### Dia 20 - Intermediário - Construa o Jogo da Cobra Parte 1: Animação e Coordenadas
 

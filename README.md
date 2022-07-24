@@ -57,7 +57,7 @@ Master Python by building **100 projects** in 100 days. Learn data science, auto
 
 #### [Day 18 - Intermediate - Turtle & the Graphical User Interface (GUI)](https://github.com/mardenmnt/100-days-of-code/tree/main/day_18)
 
-#### Day 19 - Intermediate - Instances, State and Higher Order Functions
+#### [Day 19 - Intermediate - Instances, State and Higher Order Functions](https://github.com/mardenmnt/100-days-of-code/tree/main/day_19)
 
 #### Day 20 - Intermediate - Build the Snake Game Part 1: Animation & Coordinates
 
