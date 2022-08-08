@@ -59,9 +59,9 @@ Master Python by building **100 projects** in 100 days. Learn data science, auto
 
 #### [Day 19 - Intermediate - Instances, State and Higher Order Functions](https://github.com/mardenmnt/100-days-of-code/tree/main/day_19)
 
-#### Day 20 - Intermediate - Build the Snake Game Part 1: Animation & Coordinates
+#### [Day 20 - Intermediate - Build the Snake Game Part 1: Animation & Coordinates](https://github.com/mardenmnt/100-days-of-code/tree/main/day_20_and_21)
 
-#### Day 21 - Intermediate - Build the Snake Game Part 2: Inheritance & List Slicing
+#### [Day 21 - Intermediate - Build the Snake Game Part 2: Inheritance & List Slicing](https://github.com/mardenmnt/100-days-of-code/tree/main/day_20_and_21)
 
 #### Day 22 - Intermediate - Build Pong: The Famous Arcade Game
 

@@ -57,9 +57,9 @@ Domine o Python construindo **100 projetos** em 100 dias. Aprenda ciência de da
 
 #### [Dia 19 - Intermediário - Instâncias, Estado e Funções de Ordem Superior](https://github.com/mardenmnt/100-days-of-code/tree/main/day_19)
 
-#### Dia 20 - Intermediário - Construa o Jogo da Cobra Parte 1: Animação e Coordenadas
+#### [Dia 20 - Intermediário - Construa o Jogo da Cobra Parte 1: Animação e Coordenadas](https://github.com/mardenmnt/100-days-of-code/tree/main/day_20_and_21)
 
-#### Dia 21 - Intermediário - Construa o jogo da cobra Parte 2: Herança e fatiamento de lista
+#### [Dia 21 - Intermediário - Construa o jogo da cobra Parte 2: Herança e fatiamento de lista](https://github.com/mardenmnt/100-days-of-code/tree/main/day_20_and_21)
 
 #### Dia 22 - Intermediário - Construa Pong: O Famoso Jogo de Arcade
 
